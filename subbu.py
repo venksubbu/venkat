@@ -1,4 +1,5 @@
 #stylishsubbu772@gmail.com
+#venkatasubhash
 a=int(input())
 if (a>0):
     print("Positive")
